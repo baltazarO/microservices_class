@@ -1,0 +1,5 @@
+DB="activity_log_dev"
+DB_USER="balty23"
+DB_PASSWORD="jiminy--5"
+DB_HOST="mongodb+srv://balty23:jiminy--5@cluster0-s155j.mongodb.net/activity_log_dev?retryWrites=true&w=majority"
+SLEEP_TIME=10
